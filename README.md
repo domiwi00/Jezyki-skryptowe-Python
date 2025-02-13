@@ -21,3 +21,5 @@ tablicy będzie trwało zbyt długo, program się zakończy.
 
 Aby program się wykonał potrzebny będzie co najmniej jeden plik wejściowy w katalogu in. Aby uruchomić
 program należy uruchomić plik Projekt.bat.
+
+Szczegółowy opis działania został opisany w dokumentacji.
