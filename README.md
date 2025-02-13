@@ -23,3 +23,5 @@ Aby program się wykonał potrzebny będzie co najmniej jeden plik wejściowy w 
 program należy uruchomić plik Projekt.bat.
 
 Szczegółowy opis działania został opisany w dokumentacji.
+
+# W planach napisanie projektu od nowa używając bardziej optymalnego algorytmu
